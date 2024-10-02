@@ -76,7 +76,7 @@ impl CrowdfundingPlatform {
             
         }
 
-        // projeyi  hafızadan silme
+       
         let mut projects: Vec<Symbol> = env.storage().instance().get(&DataKey::Projects).unwrap();
         projects.remove(projects.binary_search(&project).unwrap());
         env.storage().instance().set(&DataKey::Projects, &projects);
