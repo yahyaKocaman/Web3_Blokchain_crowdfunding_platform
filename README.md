@@ -96,7 +96,7 @@ Installation
 Clone the Repository
 
 
-git clone https://github.com/yourusername/crowdfunding-platform.git
+git clone https://github.com/yahyaKocaman/crowdfunding-platform.git
 cd crowdfunding-platform
 Install Front-End Dependencies
 
