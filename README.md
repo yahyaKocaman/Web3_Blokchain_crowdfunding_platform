@@ -96,8 +96,9 @@ Installation
 Clone the Repository
 
 
-git clone https://github.com/yahyaKocaman/crowdfunding-platform.git
-cd crowdfunding-platform
+git clone https://github.com/yahyaKocaman/Web3_Blokchain_crowdfunding_platform
+
+
 Install Front-End Dependencies
 
 Navigate to the front-end directory and install the required packages:
